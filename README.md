@@ -7,10 +7,6 @@ The author created this template as managing a resume on Google Docs was hard an
 
 https://www.overleaf.com/read/byqctvsjtynr
 
-### 4. Preview
-
-![Resume Screenshot](/HienDo_Resume.png)
-
-### 5. License
+### 3. License
 
 This repo is created by Sourabh Bajaj at https://github.com/sb2nov/resume and updated by Hien Do. Format is MIT but all the data is owned by Hien Do. 
